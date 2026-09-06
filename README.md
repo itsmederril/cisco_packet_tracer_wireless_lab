@@ -18,7 +18,7 @@ Topologi terdiri dari beberapa perangkat utama yang saling terhubung:
 
 | Parameter | Keterangan / Nilai Konfigurasi |
 | :--- | :--- |
-| **SSID (Nama Wi-Fi)** | `Derril Andiv Heri... + LSP2024` |
+| **SSID (Nama Wi-Fi)** | `Derril Andiv Heri... + LSP2026` |
 | **Security Mode** | WPA2 Personal |
 | **Password Wi-Fi** | `SuksesKompet3n` |
 | **Alokasi IP Client** | Dinamis (DHCP Enabled) |
